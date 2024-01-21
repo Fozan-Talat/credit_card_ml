@@ -21,7 +21,7 @@ The best model was Logistic Regression
 Please note that these steps are to be carried out in a terminal window like command prompt or git bash<br>
   - Clone the repository to your computer using:  <br>
   ```bash
-  git clone [https://github.com/Fozan-Talat/credit_card_ml.git]
+  git clone https://github.com/Fozan-Talat/credit_card_ml.git
   ```
   <br>
   
